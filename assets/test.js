@@ -24,7 +24,7 @@ fetchData(url);
 
 import fetch from 'node-fetch';
 
-const url = 'www.linkedin.com/in/cesar-andres-reyes-cede%C3%B1o-7028a3104';
+const url = 'https://graph.instagram.com/me/media?fields=id,media_type,media_url,username,timestamp&access_token=IGQWRQQl95azJXRnUtUS1HMVVzQnA1LXFVZAHpYMXZAlUFRWWjFDMHhsYWZAGY2g3NkNhX190MVVQQjlWV1E5TFpvMGxVeDlTVTJWQzA3d3U4dDdzNkpIWmlUSWJ1TGltdGljOFlNQjhiOEpHSTYydllHRGd5RWVKaDQZD';
 
 
 
