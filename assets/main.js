@@ -1,5 +1,5 @@
 const content = null||document.getElementById('content');
-const token = "IGQWRPbUtUaV9INV9jOVdsOG5hdDM3ZAkl4Njg2U3VzSlJoSUR6SWVXSUE0S3lHX1NvenNjNlVSTjVwd0tKWEQtZA0pxZAEw2S01RWG9uZA0lsUTJfbS01RzluOFpOVVlpRGNLbWJtWnlCMlpjRE9TWnpmYlhWdmZA3UWcZD"
+const token = "IGQWRQV3dwMDhJWmVjSkdKTmYtbmRrOWpkeTBwTnZAFSHRZAb1Vaa29SR29POHdyZAnUtMkJUZAURvV242YWpSX3dJVXRCLTFIbG1xS1h4eG9PdHp0ckJ2aHpSQU05RnZAYa1lxNl9uTDdUYTQ1dkVsMXhMQmFFaVdpc3MZD"
 const url = 'https://graph.instagram.com/me/media?fields=id,media_type,media_url,username,timestamp,permalink,caption&access_token='+token;
 const options = {
 	method: 'GET',
